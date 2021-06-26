@@ -1,6 +1,6 @@
 {
-  "name": "@lifecompilers/common",
-  "version": "1.0.3",
+  "name": "@zlearn/ticketing-common",
+  "version": "1.0.0",
   "description": "",
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
