@@ -1,6 +1,6 @@
 {
   "name": "@zlearn/ticketing-common",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "description": "",
   "private": false,
   "main": "./build/index.js",
